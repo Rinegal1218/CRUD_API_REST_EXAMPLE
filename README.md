@@ -15,5 +15,6 @@ Operations:
 
 database_query.sql file have a script to create database.
 In src/main/resource have an import.sql file when you run project, Spring automatically will insert records of that file to start with a not empty database.
+Also, insert you username and password for database in application.properties file.
 
 A collection of test petitions is including with the project, test it in postman. (CRUD example petitions.postman_collection file)
